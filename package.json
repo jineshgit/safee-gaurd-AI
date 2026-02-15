@@ -12,6 +12,7 @@
     "@clerk/nextjs": "^6.37.4",
     "@google/generative-ai": "^0.21.0",
     "@supabase/supabase-js": "^2.95.3",
+    "@vercel/analytics": "^1.6.1",
     "bcryptjs": "^2.4.3",
     "clsx": "^2.1.1",
     "lucide-react": "^0.564.0",
